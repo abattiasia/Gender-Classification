@@ -1,6 +1,10 @@
 # Gender Classification
 ## Classifying gender based on personal preferences
 
+
+# https://www.kaggle.com/code/abdouattia/ml-knn-6-gender-classification
+
+
 About Dataset
 Context
 Gender is a social construct. The way males and females are treated differently since birth moulds their behaviour and personal preferences into what society expects for their gender.
